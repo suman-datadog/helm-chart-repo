@@ -3,12 +3,12 @@ entries:
   apache-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-04-28T15:51:29.26850932Z"
+    created: "2026-04-28T16:43:57.545738422Z"
     description: A Helm chart for Kubernetes
     digest: f1922f70789bedfecb2db9a2bf08dc6a3b8b86a77e9377f091b9c4e3157dd359
     name: apache-chart
     type: application
     urls:
-    - https://github.com/suman-datadog/helm-chart-repo.git/apache-chart-0.1.0.tgz
+    - https://suman-datadog.github.io/helm-chart-repo/apache-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2026-04-28T15:51:29.267672797Z"
+generated: "2026-04-28T16:43:57.544731758Z"
